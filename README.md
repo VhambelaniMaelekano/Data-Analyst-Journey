@@ -3,7 +3,7 @@
 This repository documents my journey of learning data analysis from the ground up, building strong foundations and practical projects step by step.
 
 ## About Me
-I hold a **BSc in Mathematics and Physics (minor in Statistics)**and am rebuilding my data skills step by step through a self‑guided bootcamp, focusing on strong foundations and practical projects.
+I hold a **BSc in Mathematics and Physics (minor in Statistics)** and am rebuilding my data skills step by step through a self‑guided bootcamp, focusing on strong foundations and practical projects.
 
 ## Learning Roadmap
 - ✅Git & GitHub
